@@ -23,5 +23,9 @@ This dashboard provides a detailed analysis of sales, profit, and order trends a
   - Formulas (SUM, AVERAGE, IF, etc.) for calculations.  
   - Slicers for interactive filtering.
 ---
+
+### Live Project:  
+View Detailed Project: https://tinyurl.com/2s4cc9x5
+
 ### DASHBOARD
-![Dash Board](https://github.com/user-attachments/assets/151ffbc7-c001-47e6-a992-6ec515335b87)
+![Dash Board](https://github.com/user-attachments/assets/df8a9a2c-2e49-445b-bce2-ec48497e9549)
